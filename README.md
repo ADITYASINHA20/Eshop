@@ -1,17 +1,15 @@
-<<<<<<< HEAD
-# React + Vite
+# eShop - E-commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+eShop is a fully functional e-commerce website built using React.js. It allows users to browse and purchase products, manage their shopping cart, and complete the checkout process. The website features a modern design with a responsive layout, ensuring a smooth shopping experience across various devices.
 
-Currently, two official plugins are available:
+## Features
+- **Product Listing:** Browse a variety of products displayed on the homepage.
+- **Shopping Cart:** Add products to the shopping cart, view items, and manage quantities.
+- **Checkout Process:** Complete the purchase with a simple and intuitive checkout form.
+- **Responsive Design:** Fully responsive layout optimized for all screen sizes, from mobile devices to desktops.
+- **Smooth User Experience:** Seamless transitions, animations, and interactive elements.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Project Name
-This is my project description.
->>>>>>> f5c4d118971f96e11486eda6d96e24d4d5cedb0f
+## Technologies Used
+- **Frontend:** React.js, Tailwind CSS, JavaScript, HTML
+- *
